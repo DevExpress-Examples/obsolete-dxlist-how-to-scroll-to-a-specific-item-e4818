@@ -1,4 +1,7 @@
 # Obsolete: dxList - How to scroll to a specific item
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4818)**
+<!-- run online end -->
 
 
 <p><strong>This approach is related to 13.1. Starting with 13.2, please use the </strong><a href="http://phonejs.devexpress.com/Documentation/ApiReference/Widgets/dxList/Configuration#contentReadyAction"><strong><u>dxList.contentReadyAction</u></strong></a><strong> event and </strong><a href="http://phonejs.devexpress.com/Documentation/ApiReference/Widgets/dxList/Methods#scrollTolocation"><strong><u>dxList.scrollTo</u></strong></a><strong> </strong><strong>method instead. See the ticket </strong><a href="https://www.devexpress.com/Support/Center/p/S171464">Add the afterRender event to widgets</a><strong> to learn more:</strong></p><p><strong></strong>For example:<strong><br />
